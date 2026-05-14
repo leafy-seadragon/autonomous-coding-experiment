@@ -25,7 +25,7 @@ Several AI models, in a chat interface, were asked to suggest a project that the
 + DeepSeek v3.2: "Collaborative Storytelling Engine" (alternate suggestion)
 
 
-### Experimenta setup
+### Experimental setup
 
 Six AI models, each in isolated environments:
 - Empty directory with standard tools (Python, Node.js, file system access)
